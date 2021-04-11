@@ -1,0 +1,12 @@
+.login{
+    background-color: rgb(252, 97, 7);
+    border-radius: 5px;
+}
+.navbar-nav li{
+    margin-left: 15px;
+    padding: 0 20px
+}
+
+/* .navbar-brand{
+    margin-left:70px;
+} */

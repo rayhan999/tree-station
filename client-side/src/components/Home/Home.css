@@ -1,0 +1,21 @@
+input {
+  border: 2px solid rgb(252, 97, 7);
+  border-radius: 30px;
+  height: 32px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 15px;
+  color: #3D3D3C;
+  font-weight: 400;
+  padding-left: 15px;
+  padding-right: 20px;
+}
+#searchbtn {
+  background-color: transparent;
+  border-color: transparent;
+  font-size: 18px;
+  color: rgb(252, 97, 7);
+  position: relative;
+  right: 44px;
+  top: 1px;
+  cursor: pointer;
+}
